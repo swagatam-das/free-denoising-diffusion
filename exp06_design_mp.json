@@ -1,0 +1,18 @@
+{
+  "experiment": "exp06_design_mp",
+  "timestamp": "2026-08-12T11:57:04",
+  "L": 0.5,
+  "support_theory": [
+    0.08578643762690492,
+    2.914213562373095
+  ],
+  "support_empirical": [
+    0.09447470908073786,
+    2.828714398489827
+  ],
+  "W1_terminal": 0.012940991779179942,
+  "stationarity_relative_error_interior": 0.003494147139528138,
+  "edge_exponent_lower": 0.41619933713939467,
+  "edge_exponent_upper": 0.511949291537863,
+  "edge_exponent_expected": 0.5
+}
