@@ -1,0 +1,8 @@
+# Runtime dependencies.  Versions are lower bounds; the results reported in the
+# paper were produced with numpy 2.4, scipy 1.17 and matplotlib 3.10.
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+
+# Test dependency (not needed to reproduce the figures).
+pytest>=7.0

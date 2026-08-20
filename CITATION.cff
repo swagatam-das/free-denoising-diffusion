@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the accompanying paper.
+title: "Free denoising diffusion models: reference implementation"
+abstract: >-
+  Reference implementation accompanying the paper "Free denoising diffusion
+  models".  Implements the forward free Ornstein-Uhlenbeck flow and its spectral
+  marginals, the reverse-time free SDE and probability flow, free denoising score
+  matching, the free functional inequalities, and the design of prescribed
+  equilibria, together with the nine numerical experiments reported in the paper.
+type: software
+version: 1.0.0
+date-released: 2026-08-12
+license: MIT
+repository-code: "https://github.com/<user>/free-denoising-diffusion"
+authors:
+  - family-names: Das
+    given-names: Swagatam
+    affiliation: >-
+      Electronics and Communication Sciences Unit, Indian Statistical Institute,
+      Kolkata, India
+    email: swagatam.das@isical.ac.in
+keywords:
+  - free probability
+  - denoising diffusion
+  - free Brownian motion
+  - free Ornstein-Uhlenbeck process
+  - free entropy
+  - conjugate variable
+  - Dyson Brownian motion
+  - free Wasserstein distance
+  - displacement convexity
+  - score matching
+  - random matrices
+preferred-citation:
+  type: article
+  title: "Free denoising diffusion models"
+  authors:
+    - family-names: Das
+      given-names: Swagatam
+      affiliation: >-
+        Electronics and Communication Sciences Unit, Indian Statistical
+        Institute, Kolkata, India
+  year: 2026
+  journal: "Electronic Journal of Probability"
+  notes: "Submitted."
